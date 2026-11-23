@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**mmdos32/mmdos32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+   :=:  --                                           :  ::     mmdos32@systems ------------------------------------
+:-: :==-:==:                                       .=:.==..:   OS .............. BasicOS · Simorgh
+.-===-=++=+++-=:.             ----.              .======---:   BasicOS ......... 32-bit x86 hobby kernel (C + asm)
+:---==+++++++***++++-        :=+=+=         .-==*****+++==-:   Simorgh ......... Arch-based distro · Hyprland
+ :--==+***+++**++++***=     .-=##***-.   -+****#*++**++==-:    Focus ........... OS dev · kernel · low-level
+  :==++++***+=+*++===+*+:    .-=*+===. =**+++++*++**++===:     Stack ........... C · Assembly · Shell · Lua
+    :=+++++*++===++===-+++=-:   =**--=+*+===+++++***+==-       Building ........ syscalls · ELF loader · installer
+    .::-=+++++*++===++====+******+*#+++==++++++**+++=:.        GitHub Stats .... Repos: 2 | Stars: 0 | Followers: 0
+       .:-:=++*****+++++==--==+++*#+===++++*+**+++-..          
+           :. ===+****++**======+#*++++***=*+.--               
+             .    ..-+++++++==++*+++++==--: .                  
+              :-==++***+=++=-+:                                
+           .-====*#*+**+++:+-=.                                
+            :==++===++*++=.:.                                  
+          .=++=-: =+=.+:.:                                     
+          :-:    ++:  .                                        
+</pre>
